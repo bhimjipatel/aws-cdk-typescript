@@ -2,7 +2,7 @@ repo_name: bhimjipatel/aws-cdk-typescript
 report_id: 651ef3aa418994cbc03ab7cec16e1828
 version: 0.1
 repo_type: Public
-timestamp: '2023-12-19T07:19:32+00:00'
+timestamp: '2024-01-05T08:20:26+00:00'
 requested_by: bhimjipatel
 provider: github
 branch: main
@@ -16,6 +16,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/bhimjipatel/aws-cdk-typescript
   detection_source: Repo Metadata
 - name: JavaScript
   description: Lightweight, interpreted, object-oriented language with first-class
@@ -26,6 +27,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/bhimjipatel/aws-cdk-typescript
   detection_source: Repo Metadata
 - name: Python
   description: A clear and powerful object-oriented programming language, comparable
@@ -36,6 +38,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/bhimjipatel/aws-cdk-typescript
   detection_source: Repo Metadata
 - name: TypeScript
   description: A superset of JavaScript that compiles to clean JavaScript output
@@ -46,6 +49,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1612/bynNY5dJ.jpg
+  detection_source_url: https://github.com/bhimjipatel/aws-cdk-typescript
   detection_source: Repo Metadata
 - name: ExpressJS
   description: Sinatra inspired web development framework for node.js -- insanely
@@ -71,6 +75,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Microframeworks (Backend)
   image_url: https://img.stackshare.io/service/1001/default_6d109315b60108628b7cd3e159b84645c31ef0e2.png
+  detection_source_url: https://github.com/bhimjipatel/aws-cdk-typescript/blob/main/typescript/ecs/fargate-service-with-local-image/local-image/requirements.txt
   detection_source: typescript/ecs/fargate-service-with-local-image/local-image/requirements.txt
   last_updated_by: Bhimji Patel
   last_updated_on: 2023-08-31 11:14:26.000000000 Z
@@ -83,6 +88,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png
+  detection_source_url: https://github.com/bhimjipatel/aws-cdk-typescript/blob/main/typescript/amplify-console-app/package.json
   detection_source: typescript/amplify-console-app/package.json
   last_updated_by: Bhimji Patel
   last_updated_on: 2023-08-31 11:14:26.000000000 Z
@@ -94,6 +100,7 @@ tools:
   category: Data Stores
   sub_category: Database Tools
   image_url: https://img.stackshare.io/service/109221/default_b888cdf5617d936aa6aacf130911906955508639.png
+  detection_source_url: https://github.com/bhimjipatel/aws-cdk-typescript/blob/main/typescript/ec2-instance-connect-endpoint/lambda.d/requirements.txt
   detection_source: typescript/ec2-instance-connect-endpoint/lambda.d/requirements.txt
   last_updated_by: Bhimji Patel
   last_updated_on: 2023-08-31 11:14:26.000000000 Z
@@ -106,6 +113,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Virtual Machine Platforms & Containers
   image_url: https://img.stackshare.io/service/586/n4u37v9t_400x400.png
+  detection_source_url: https://github.com/bhimjipatel/aws-cdk-typescript
   detection_source: Repo Metadata
 - name: Dotenv
   description: Loads environment variables from .env for Nodejs projects
@@ -116,6 +124,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Server Configuration and Automation
   image_url: https://img.stackshare.io/service/8067/default_90dcb1286af7685c68df319c764b80704df1155b.png
+  detection_source_url: https://github.com/bhimjipatel/aws-cdk-typescript/blob/main/typescript/ec2-instance/package.json
   detection_source: typescript/ec2-instance/package.json
   last_updated_by: Bhimji Patel
   last_updated_on: 2023-08-31 11:14:26.000000000 Z
@@ -128,6 +137,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Code Review
   image_url: https://img.stackshare.io/service/3337/Q4L7Jncy.jpg
+  detection_source_url: https://github.com/bhimjipatel/aws-cdk-typescript/blob/main/typescript/ec2-instance-connect-endpoint/package.json
   detection_source: typescript/ec2-instance-connect-endpoint/package.json
   last_updated_by: Bhimji Patel
   last_updated_on: 2023-08-31 11:14:26.000000000 Z
@@ -140,6 +150,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: JS Build Tools / JS Task Runners
   image_url: https://img.stackshare.io/service/25166/default_2dcc9286a150737a14625d18f6f93747f72be430.png
+  detection_source_url: https://github.com/bhimjipatel/aws-cdk-typescript/blob/main/typescript/api-cors-lambda-crud-dynamodb/package.json
   detection_source: typescript/api-cors-lambda-crud-dynamodb/package.json
   last_updated_by: Bhimji Patel
   last_updated_on: 2023-08-31 11:14:26.000000000 Z
@@ -151,6 +162,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/bhimjipatel/aws-cdk-typescript
   detection_source: Repo Metadata
 - name: Jest
   description: Painless JavaScript Unit Testing
@@ -188,6 +200,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Hosted Package Repository
   image_url: https://img.stackshare.io/service/12572/-RIWgodF_400x400.jpg
+  detection_source_url: https://github.com/bhimjipatel/aws-cdk-typescript/blob/main/typescript/ec2-instance-connect-endpoint/package.json
   detection_source: typescript/ec2-instance-connect-endpoint/package.json
   last_updated_by: Bhimji Patel
   last_updated_on: 2023-08-31 11:14:26.000000000 Z
@@ -199,6 +212,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/bhimjipatel/aws-cdk-typescript/blob/main/typescript/lambda-api-ci/package.json
   detection_source: typescript/lambda-api-ci/package.json
   last_updated_by: Bhimji Patel
   last_updated_on: 2023-08-31 11:14:26.000000000 Z
@@ -211,6 +225,7 @@ tools:
   category: Application Hosting
   sub_category: Serverless / Task Processing
   image_url: https://img.stackshare.io/service/1909/aws-lambda.png
+  detection_source_url: https://github.com/bhimjipatel/aws-cdk-typescript/blob/main/typescript/inspector2/package.json
   detection_source: typescript/inspector2/package.json
   last_updated_by: Bhimji Patel
   last_updated_on: 2023-08-31 11:14:26.000000000 Z
@@ -222,6 +237,7 @@ tools:
   category: Communications
   sub_category: Large Language Model Tools
   image_url: https://img.stackshare.io/service/48790/default_5b6c6b73f1ff3775c85d2a1ba954cb87e30cbf13.jpg
+  detection_source_url: https://github.com/bhimjipatel/aws-cdk-typescript/blob/main/typescript/ec2-instance-connect-endpoint/lambda.d/requirements.txt
   detection_source: typescript/ec2-instance-connect-endpoint/lambda.d/requirements.txt
   last_updated_by: Bhimji Patel
   last_updated_on: 2023-08-31 11:14:26.000000000 Z
@@ -234,6 +250,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source_url: https://github.com/bhimjipatel/aws-cdk-typescript
   detection_source: Repo Metadata
 - name: "@types/aws-lambda"
   description: TypeScript definitions for AWS Lambda
@@ -300,6 +317,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16257/default_ab17554b7e80af3d234b14168ed61e75d43f8eee.png
+  detection_source_url: https://github.com/bhimjipatel/aws-cdk-typescript/blob/main/typescript/api-cors-lambda-crud-dynamodb/lambdas/package.json
   detection_source: typescript/api-cors-lambda-crud-dynamodb/lambdas/package.json
   last_updated_by: Bhimji Patel
   last_updated_on: 2023-08-31 11:14:26.000000000 Z
@@ -312,6 +330,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15982/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
+  detection_source_url: https://github.com/bhimjipatel/aws-cdk-typescript/blob/main/typescript/ec2-instance-connect-endpoint/package.json
   detection_source: typescript/ec2-instance-connect-endpoint/package.json
   last_updated_by: Bhimji Patel
   last_updated_on: 2023-08-31 11:14:26.000000000 Z
@@ -324,6 +343,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15980/default_732016a20524708efe7a4c77497fe9bfeea19ba6.png
+  detection_source_url: https://github.com/bhimjipatel/aws-cdk-typescript/blob/main/typescript/ec2-instance-connect-endpoint/package.json
   detection_source: typescript/ec2-instance-connect-endpoint/package.json
   last_updated_by: Bhimji Patel
   last_updated_on: 2023-08-31 11:14:26.000000000 Z
@@ -435,6 +455,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16610/default_50c9ed1615a25628505ab53def64d82450ced26b.png
+  detection_source_url: https://github.com/bhimjipatel/aws-cdk-typescript/blob/main/typescript/ec2-instance-connect-endpoint/package.json
   detection_source: typescript/ec2-instance-connect-endpoint/package.json
   last_updated_by: Bhimji Patel
   last_updated_on: 2023-08-31 11:14:26.000000000 Z
@@ -461,6 +482,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16053/default_924b66c04aa848a4028c1a5753a23dae0f835f86.png
+  detection_source_url: https://github.com/bhimjipatel/aws-cdk-typescript/blob/main/typescript/ec2-instance-connect-endpoint/package.json
   detection_source: typescript/ec2-instance-connect-endpoint/package.json
   last_updated_by: Bhimji Patel
   last_updated_on: 2023-08-31 11:14:26.000000000 Z
@@ -502,6 +524,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15916/default_e0a4fb1126d7400f419f0931cf1669947a5bc552.png
+  detection_source_url: https://github.com/bhimjipatel/aws-cdk-typescript/blob/main/typescript/api-cors-lambda-crud-dynamodb/lambdas/package.json
   detection_source: typescript/api-cors-lambda-crud-dynamodb/lambdas/package.json
   last_updated_by: Bhimji Patel
   last_updated_on: 2023-08-31 11:14:26.000000000 Z
@@ -514,6 +537,7 @@ tools:
   category: Libraries
   sub_category: PyPI Packages
   image_url: https://img.stackshare.io/package/19840/default_1c41e593803157c668b26f27387160254f0f5371.png
+  detection_source_url: https://github.com/bhimjipatel/aws-cdk-typescript/blob/main/typescript/ec2-instance-connect-endpoint/lambda.d/requirements.txt
   detection_source: typescript/ec2-instance-connect-endpoint/lambda.d/requirements.txt
   last_updated_by: Bhimji Patel
   last_updated_on: 2023-08-31 11:14:26.000000000 Z
